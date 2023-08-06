@@ -2,7 +2,10 @@
 ### I am Shishir
 ####  Software Engineer & Mobile Apps Developer based on Dhaka, Bangladesh
 
-![ Software Engineer & Mobile Apps Developer based on Dhaka, Bangladesh](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/309996035_635969364826044_669986917147131842_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=KH31BtRHQ7IAX_1Neqy&_nc_ht=scontent.fdac116-1.fna&oh=00_AT8JGG28M-okebU2PQ3kgXaLFLDrJsmeLXoeZhu0Rjr8wA&oe=633B3E2E)
+![ Software Engineer & Mobile Apps Developer based on Dhaka, Bangladesh]
+![Mobile-App-developer-3](https://github.com/KARTIKBANIK/KARTIKBANIK/assets/69008307/c9db8f17-7b89-4614-8266-d10b6802ccf9)
+
+
 
                   👇🏽 : Connect with me on : 👇🏽
                 ✉️ kartikbanikshishir@gmail.com ✉️
