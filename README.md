@@ -9,7 +9,7 @@
                   👇🏽 : Connect with me on : 👇🏽
                 ✉️ kartikbanikshishir@gmail.com ✉️
 
-    Skills: FLUTTER/ DART/ PYTHON/DJANGO/ HTML / CSS / JAVA
+    Skills: FLUTTER / DART / PYTHON / DJANGO / HTML / CSS / JAVA
 
 
 
